@@ -1,7 +1,7 @@
 # QCSimulator
 Simulating a Quantum Computer using C++
 
-This repository contains the final code for the project phase of [QCourse 511-1]https://qworld.net/qcourse511-1/.
+This repository contains the final code for the project phase of [QCourse 511-1](https://qworld.net/qcourse511-1/). 
 
 ## Project Title
 Quantum Simulator | C++
