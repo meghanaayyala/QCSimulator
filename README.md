@@ -18,3 +18,5 @@ To design a simple Quantum Program and simulate it in C++ programming language.
 
 ## Midterm Deliverables
 Code for implementing methods for Quantum Operators- Hadamard,NOTZ-gate,Rotations on the unit circle with the specified angle and CNOT operator.
+
+Link to [Mid Term Report](https://docs.google.com/document/d/1Y-oOJxMQ9ECklWSBW3SVBCbNfBO2QpNzUaaBE8N7vFk/edit?usp=sharing)
