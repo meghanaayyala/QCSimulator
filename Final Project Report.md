@@ -12,7 +12,7 @@ The target outcome is to implement a simple Quantum Program through implementati
 **Discord Handle:** StoicCloud#7376
 
 ### Midterm Deliverables
-Code for implementing methods for Quantum Operators- Hadamard,NOTZ-gate,Rotations on the unit circle with the specified angle and CNOT operator.
+Code for implementing methods for Quantum Operators- Hadamard,NOT gate,Z-gate,Rotations on the unit circle with the specified angle and CNOT operator.
 <br>
 Link to [Mid Term Report](https://docs.google.com/document/d/1Y-oOJxMQ9ECklWSBW3SVBCbNfBO2QpNzUaaBE8N7vFk/edit?usp=sharing)
 ### Final Deliverables 
