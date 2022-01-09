@@ -7,6 +7,7 @@ This repository contains the final code for the project phase of [QCourse 511-1]
 It aims to simulate a quantum computer using the C++ Programming Language. It is the implementation of QWorld's QBronze Project- [Your Quantum Simulator](https://gitlab.com/qworld/bronze-qiskit/-/blob/master/projects/Project_Your_Quantum_Simulator.ipynb).
 <br>
 The target outcome is to implement a simple Quantum Program through implementation of Quantum Gates from scratch. All numerical and algebraic methods have been implemented from scratch, such as matrix multiplications, tensor products, vector products.
+<br>
 **Student Name:** Meghana Ayyala Somayajula <br>
 **Discord Handle:** StoicCloud#7376
 
