@@ -9,7 +9,7 @@ It aims to simulate a quantum computer using the C++ Programming Language. It is
 The target outcome is to implement a simple Quantum Program through implementation of Quantum Gates from scratch. All numerical and algebraic methods have been implemented from scratch, such as matrix multiplications, tensor products, vector products.
 <br>
 **Student Name:** Meghana Ayyala Somayajula <br>
-**Discord Handle:** StoicCloud#7376
+
 
 ### Midterm Deliverables
 Code for implementing methods for Quantum Operators- Hadamard,NOT gate,Z-gate,Rotations on the unit circle with the specified angle and CNOT operator.
